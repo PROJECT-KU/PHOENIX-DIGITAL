@@ -9,11 +9,11 @@ Beranda | Phoenix Digital
 
     <!--================== HEADER ==================-->
     <section id="hero" class="hero section dark-background">
-        <img src="{{ asset('publict/assets/img/hero-bg-2.jpg') }}" alt="" class="hero-bg">
+        <img src="{{ asset('global/assets/img/hero-bg-2.jpg') }}" alt="" class="hero-bg">
         <div class="container">
             <div class="row gy-4 justify-content-between">
                 <div class="col-lg-4 order-lg-last hero-img" data-aos="zoom-out" data-aos-delay="100">
-                    <img src="{{ asset('publict/assets/img/hero-img.png') }}" class="img-fluid animated" alt="">
+                    <img src="{{ asset('global/assets/img/hero-img.png') }}" class="img-fluid animated" alt="">
                 </div>
 
                 <div class="col-lg-6  d-flex flex-column justify-content-center" data-aos="fade-in">
@@ -393,7 +393,7 @@ Beranda | Phoenix Digital
         <div class="container">
             <div class="row gy-4 align-items-center features-item">
                 <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="100">
-                    <img src="{{ asset('publict/assets/img/details-1.png') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('global/assets/img/details-1.png') }}" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-7" data-aos="fade-up" data-aos-delay="100">
                     <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
@@ -411,7 +411,7 @@ Beranda | Phoenix Digital
 
             <div class="row gy-4 align-items-center features-item">
                 <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out" data-aos-delay="200">
-                    <img src="{{ asset('publict/assets/img/details-2.png') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('global/assets/img/details-2.png') }}" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-7 order-2 order-md-1" data-aos="fade-up" data-aos-delay="200">
                     <h3>Corporis temporibus maiores provident</h3>
@@ -429,7 +429,7 @@ Beranda | Phoenix Digital
 
             <div class="row gy-4 align-items-center features-item">
                 <div class="col-md-5 d-flex align-items-center" data-aos="zoom-out">
-                    <img src="{{ asset('publict/assets/img/details-3.png') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('global/assets/img/details-3.png') }}" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-7" data-aos="fade-up">
                     <h3>Sunt consequatur ad ut est nulla consectetur reiciendis animi voluptas</h3>
@@ -444,7 +444,7 @@ Beranda | Phoenix Digital
 
             <div class="row gy-4 align-items-center features-item">
                 <div class="col-md-5 order-1 order-md-2 d-flex align-items-center" data-aos="zoom-out">
-                    <img src="{{ asset('publict/assets/img/details-4.png') }}" class="img-fluid" alt="">
+                    <img src="{{ asset('global/assets/img/details-4.png') }}" class="img-fluid" alt="">
                 </div>
                 <div class="col-md-7 order-2 order-md-1" data-aos="fade-up">
                     <h3>Quas et necessitatibus eaque impedit ipsum animi consequatur incidunt in</h3>
@@ -477,64 +477,64 @@ Beranda | Phoenix Digital
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-1.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-1.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-1.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-1.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-2.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-2.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-2.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-2.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-3.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-3.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-3.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-3.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-4.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-4.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-4.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-4.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-5.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-5.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-5.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-5.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-6.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-6.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-6.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-6.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-7.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-7.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-7.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-7.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
 
                 <div class="col-lg-3 col-md-4">
                     <div class="gallery-item">
-                        <a href="{{ asset('publict/assets/img/gallery/gallery-8.jpg') }}" class="glightbox" data-gallery="images-gallery">
-                            <img src="{{ asset('publict/assets/img/gallery/gallery-8.jpg') }}" alt="" class="img-fluid">
+                        <a href="{{ asset('global/assets/img/gallery/gallery-8.jpg') }}" class="glightbox" data-gallery="images-gallery">
+                            <img src="{{ asset('global/assets/img/gallery/gallery-8.jpg') }}" alt="" class="img-fluid">
                         </a>
                     </div>
                 </div>
@@ -546,7 +546,7 @@ Beranda | Phoenix Digital
 
     <!--================== TESTIMONI ==================-->
     <!-- <section id="testimonials" class="testimonials section dark-background">
-        <img src="{{ asset('publict/assets/img/testimonials-bg.jpg') }}" class="testimonials-bg" alt="">
+        <img src="{{ asset('global/assets/img/testimonials-bg.jpg') }}" class="testimonials-bg" alt="">
         <div class="container" data-aos="fade-up" data-aos-delay="100">
 
             <div class="swiper init-swiper">
@@ -569,7 +569,7 @@ Beranda | Phoenix Digital
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="{{ asset('publict/assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
+                            <img src="{{ asset('global/assets/img/testimonials/testimonials-1.jpg') }}" class="testimonial-img" alt="">
                             <h3>Saul Goodman</h3>
                             <h4>Ceo &amp; Founder</h4>
                             <div class="stars">
@@ -585,7 +585,7 @@ Beranda | Phoenix Digital
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="{{ asset('publict/assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
+                            <img src="{{ asset('global/assets/img/testimonials/testimonials-2.jpg') }}" class="testimonial-img" alt="">
                             <h3>Sara Wilsson</h3>
                             <h4>Designer</h4>
                             <div class="stars">
@@ -601,7 +601,7 @@ Beranda | Phoenix Digital
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="{{ asset('publict/assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
+                            <img src="{{ asset('global/assets/img/testimonials/testimonials-3.jpg') }}" class="testimonial-img" alt="">
                             <h3>Jena Karlis</h3>
                             <h4>Store Owner</h4>
                             <div class="stars">
@@ -617,7 +617,7 @@ Beranda | Phoenix Digital
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="{{ asset('publict/assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
+                            <img src="{{ asset('global/assets/img/testimonials/testimonials-4.jpg') }}" class="testimonial-img" alt="">
                             <h3>Matt Brandon</h3>
                             <h4>Freelancer</h4>
                             <div class="stars">
@@ -633,7 +633,7 @@ Beranda | Phoenix Digital
 
                     <div class="swiper-slide">
                         <div class="testimonial-item">
-                            <img src="{{ asset('publict/assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
+                            <img src="{{ asset('global/assets/img/testimonials/testimonials-5.jpg') }}" class="testimonial-img" alt="">
                             <h3>John Larson</h3>
                             <h4>Entrepreneur</h4>
                             <div class="stars">
@@ -668,7 +668,7 @@ Beranda | Phoenix Digital
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="100">
                     <div class="member">
-                        <div class="pic"><img src="{{ asset('publict/assets/img/team/team-1.jpg') }}" class="img-fluid" alt=""></div>
+                        <div class="pic"><img src="{{ asset('global/assets/img/team/team-1.jpg') }}" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>Walter White</h4>
                             <span>Chief Executive Officer</span>
@@ -684,7 +684,7 @@ Beranda | Phoenix Digital
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="200">
                     <div class="member">
-                        <div class="pic"><img src="{{ asset('publict/assets/img/team/team-2.jpg') }}" class="img-fluid" alt=""></div>
+                        <div class="pic"><img src="{{ asset('global/assets/img/team/team-2.jpg') }}" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>Sarah Jhonson</h4>
                             <span>Product Manager</span>
@@ -700,7 +700,7 @@ Beranda | Phoenix Digital
 
                 <div class="col-lg-4 col-md-6" data-aos="fade-up" data-aos-delay="300">
                     <div class="member">
-                        <div class="pic"><img src="{{ asset('publict/assets/img/team/team-3.jpg') }}" class="img-fluid" alt=""></div>
+                        <div class="pic"><img src="{{ asset('global/assets/img/team/team-3.jpg') }}" class="img-fluid" alt=""></div>
                         <div class="member-info">
                             <h4>William Anderson</h4>
                             <span>CTO</span>
@@ -783,7 +783,7 @@ Beranda | Phoenix Digital
                 </div>
 
                 <div class="col-lg-5 order-1 order-lg-2">
-                    <img src="{{ asset('publict/assets/img/faq.jpg') }}" class="img-fluid" alt="FAQ Image" data-aos="zoom-in" data-aos-delay="100">
+                    <img src="{{ asset('global/assets/img/faq.jpg') }}" class="img-fluid" alt="FAQ Image" data-aos="zoom-in" data-aos-delay="100">
                 </div>
 
             </div>
