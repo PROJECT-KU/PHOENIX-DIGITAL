@@ -11,8 +11,8 @@
     <meta name="keywords" content="">
 
     <!-- Favicons -->
-    <link href="{{ asset('publict/assets/img/faviconphoenix.png') }}" rel="icon">
-    <link href="{{ asset('publict/assets/img/faviconphoenix.png') }}" rel="apple-touch-icon">
+    <link href="{{ asset('global/assets/img/faviconphoenix.png') }}" rel="icon">
+    <link href="{{ asset('global/assets/img/faviconphoenix.png') }}" rel="apple-touch-icon">
 
     <!-- Fonts -->
     <link href="https://fonts.googleapis.com" rel="preconnect">
@@ -20,14 +20,14 @@
     <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap" rel="stylesheet">
 
     <!-- Vendor CSS Files -->
-    <link href="{{ asset('publict/assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('publict/assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
-    <link href="{{ asset('publict/assets/vendor/aos/aos.css') }}" rel="stylesheet">
-    <link href="{{ asset('publict/assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('publict/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('global/assets/vendor/bootstrap/css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('global/assets/vendor/bootstrap-icons/bootstrap-icons.css') }}" rel="stylesheet">
+    <link href="{{ asset('global/assets/vendor/aos/aos.css') }}" rel="stylesheet">
+    <link href="{{ asset('global/assets/vendor/glightbox/css/glightbox.min.css') }}" rel="stylesheet">
+    <link href="{{ asset('global/assets/vendor/swiper/swiper-bundle.min.css') }}" rel="stylesheet">
 
     <!-- Main CSS File -->
-    <link href="{{ asset('publict/assets/css/main.css') }}" rel="stylesheet">
+    <link href="{{ asset('global/assets/css/main.css') }}" rel="stylesheet">
 
     <!-- sweet alert -->
     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
@@ -39,7 +39,7 @@
         <div class="container-fluid container-xl position-relative d-flex align-items-center justify-content-between">
 
             <a href="{{ route('home') }}" class="logo d-flex align-items-center">
-                <img src="{{ asset('publict/assets/img/logophoenix.png') }}" style="height: 60px; max-height: 100%;">
+                <img src="{{ asset('global/assets/img/logophoenix.png') }}" style="height: 60px; max-height: 100%;">
             </a>
 
             <nav id="navmenu" class="navmenu">
@@ -84,7 +84,7 @@
             <div class="row gy-4">
                 <div class="col-lg-4 col-md-6 footer-about">
                     <a href="index.html" class="logo d-flex align-items-center">
-                        <img src="{{ asset('publict/assets/img/logophoenix.png') }}" style="height: 60px; max-height: 100%;">
+                        <img src="{{ asset('global/assets/img/logophoenix.png') }}" style="height: 60px; max-height: 100%;">
                     </a>
                     <div class="footer-contact pt-3">
                         <!-- <p>A108 Adam Street</p>
@@ -190,14 +190,14 @@
     <div id="preloader"></div>
 
     <!-- Vendor JS Files -->
-    <script src="{{ asset('publict/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
-    <script src="{{ asset('publict/assets/vendor/php-email-form/validate.js') }}"></script>
-    <script src="{{ asset('publict/assets/vendor/aos/aos.js') }}"></script>
-    <script src="{{ asset('publict/assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
-    <script src="{{ asset('publict/assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
-    <script src="{{ asset('publict/assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
+    <script src="{{ asset('global/assets/vendor/bootstrap/js/bootstrap.bundle.min.js') }}"></script>
+    <script src="{{ asset('global/assets/vendor/php-email-form/validate.js') }}"></script>
+    <script src="{{ asset('global/assets/vendor/aos/aos.js') }}"></script>
+    <script src="{{ asset('global/assets/vendor/glightbox/js/glightbox.min.js') }}"></script>
+    <script src="{{ asset('global/assets/vendor/purecounter/purecounter_vanilla.js') }}"></script>
+    <script src="{{ asset('global/assets/vendor/swiper/swiper-bundle.min.js') }}"></script>
 
     <!-- Main JS File -->
-    <script src="{{ asset('publict/assets/js/main.js') }}"></script>
+    <script src="{{ asset('global/assets/js/main.js') }}"></script>
 
 </body>
