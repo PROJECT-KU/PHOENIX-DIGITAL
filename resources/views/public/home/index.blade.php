@@ -51,121 +51,93 @@ Beranda | Phoenix Digital
             <h2>Promo Akun Premium</h2>
             <div><span>Super Murah,</span> <span class="description-title">Langsung Aktif & Terjamin Legal</span></div>
         </div>
-        <div class="container">
-            <div class="row gy-4">
 
-                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="100">
-                    <div class="pricing-item">
+        <div class="container">
+            <div class="row gy-4 justify-content-center">
+
+                <!-- Paket Silaturahmi Hemat -->
+                <div class="col-lg-4 d-flex" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="pricing-item flex-fill">
                         <h3>Paket Silaturahmi Hemat</h3>
                         <p class="description">
-                            🎁 Paket spesial 1 bulan penuh! <br>Berisi <strong>Scopus Lisensi + Scopus AI + DeepL Pro</strong>.
-                            Sempurna untuk mempercepat riset, translate jurnal, dan eksplorasi literatur ilmiah.
-                            <br>💡 Harga hemat, manfaat maksimal!
+                            🌟 Cocok untuk kamu yang ingin coba dulu! <br>
+                            Dalam satu paket, kamu langsung dapat:<br>
+                            ✅ <strong>Scopus Lisensi</strong><br>
+                            ✅ <strong>Scopus AI</strong><br>
+                            ✅ <strong>DeepL Pro</strong><br>
+                            💡 Ideal untuk mahasiswa akhir, dosen, atau peneliti yang ingin hemat tapi tetap maksimal.<br>
+                            📌 Langsung aktif, tanpa ribet!<br>
+                            🎯 Harga bersahabat, kualitas profesional.
                         </p>
-                        <h4 style="font-size: 1.5rem; margin-bottom: 10px; margin-top:50px;">
-                            <span style="background-color: #ffeb3b; color: #d32f2f; padding: 2px 6px; border-radius: 5px; font-size: 0.9rem; font-weight: bold;">
-                                PROMO HARI INI!
-                            </span><br><br>
-                            <span style="text-decoration: line-through; color: #b71c1c;"><sup>Rp</sup>250.000</span>
-                            &nbsp;
-                            <sup style="color: #388e3c;">Rp</sup>
-                            <span style="color: #388e3c; font-weight: bold; font-size: 30px;">180.000</span>
+                        <h4 class="text-center">
+                            <span class="badge bg-warning text-danger fw-bold">PROMO HARI INI!</span><br><br>
+                            <span class="text-decoration-line-through text-danger">
+                                <sup>Rp</sup>250.000
+                            </span><br>
+                            <span class="fw-bold text-success" style="font-size: 30px;">
+                                <sup>Rp</sup>180.000
+                            </span>
                             <span style="font-size: 0.9rem;">/ bulan</span>
                         </h4>
-                        <a href="https://wa.me/6289505967995?text=Halo%2C%20saya%20tertarik%20dengan%20*Paket%20Silaturahmi%20Hemat*%20(Scopus%20Lisensi%2C%20Scopus%20AI%2C%20DeepL)%20selama%201%20bulan.%20Masih%20tersedia%3F" class="cta-btn" target="_blank">
-                            Pesan Sekarang!
-                        </a>
-                        <p style="font-size: 1.1rem; margin-bottom: 10px;">
-                            🎉 *Jangan lewatkan kesempatan terbatas ini!* Promo bisa berakhir kapan saja.
-                        </p>
-                        <!-- <p class="text-center small">No credit card required</p>
-                        <ul>
-                            <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                            <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                            <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                            <li class="na"><i class="bi bi-x"></i> <span>Pharetra massa massa ultricies</span></li>
-                            <li class="na"><i class="bi bi-x"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                            <li class="na"><i class="bi bi-x"></i> <span>Voluptate id voluptas qui sed aperiam rerum</span></li>
-                            <li class="na"><i class="bi bi-x"></i> <span>Iure nihil dolores recusandae odit voluptatibus</span></li>
-                        </ul> -->
+                        <a href="https://wa.me/6289505967995?text=Halo%2C%20saya%20tertarik%20dengan%20Paket%20Silaturahmi%20Hemat" class="cta-btn" target="_blank">Pesan Sekarang!</a>
+                        <p class="text-center">🎉 <strong>Jangan lewatkan kesempatan terbatas ini!</strong> Promo bisa berakhir kapan saja.</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="200">
-                    <div class="pricing-item featured">
+                <!-- Paket Spesial Terbatas -->
+                <div class="col-lg-4 d-flex" data-aos="zoom-in" data-aos-delay="200">
+                    <div class="pricing-item featured flex-fill">
                         <p class="popular">Popular</p>
                         <h3>Paket Spesial Terbatas</h3>
                         <p class="description">
-                            🔐 Akses 6 bulan tanpa batas! <br> Berisi <strong>Scopus Lisensi + Scopus AI + SciSpace Pro</strong>
-                            <br>🧠 Rancang, teliti, dan susun jurnal ilmiah dengan lebih cepat & akurat.
-                            <br>⚡ Cocok untuk dosen, peneliti, dan mahasiswa akhir yang butuh solusi efisien.
+                            💼 Butuh akses jangka panjang dan andalan? Ini dia jawabannya!<br>
+                            ✅ <strong>Scopus Lisensi</strong><br>
+                            ✅ <strong>Scopus AI</strong><br>
+                            ✅ <strong>SciSpace Pro</strong><br>
+                            🧠 Cocok banget buat peneliti serius, dosen, dan pejuang skripsi.<br>
+                            🕑 Promo hanya untuk hari ini — stok terbatas!<br>
+                            🔒 Aman, legal, dan dijamin aktif.
                         </p>
-                        <h4 style="font-size: 1.5rem; margin-bottom: 10px; margin-top:30px;">
-                            <span style="background-color: #ffeb3b; color: #d32f2f; padding: 2px 6px; border-radius: 5px; font-size: 0.9rem; font-weight: bold;">
-                                PROMO HARI INI!
-                            </span><br><br>
-                            <span style="text-decoration: line-through; color: #b71c1c;"><sup>Rp</sup>650.000</span>
-                            &nbsp;
-                            <sup style="color: #388e3c;">Rp</sup>
-                            <span style="color: #388e3c; font-weight: bold; font-size: 30px;">300.000</span>
+                        <h4 class="text-center">
+                            <span class="badge bg-warning text-danger fw-bold">PROMO HARI INI!</span><br><br>
+                            <span class="text-decoration-line-through text-danger">
+                                <sup>Rp</sup>650.000
+                            </span><br>
+                            <span class="fw-bold text-success" style="font-size: 30px;">
+                                <sup>Rp</sup>300.000
+                            </span>
                             <span style="font-size: 0.9rem;">/ 6 bulan</span>
                         </h4>
-                        <a href="https://wa.me/6289505967995?text=Halo%2C%20saya%20tertarik%20dengan%20*Paket%20Spesial%20Terbatas*%20(Scopus%20Lisensi%2C%20Scopus%20AI%2C%20SciSpace%20Pro)%20selama%206%20bulan.%20Masih%20tersedia%3F"
-                            class="cta-btn" target="_blank">
-                            Pesan Sekarang!
-                        </a>
-                        <p style="font-size: 1.1rem; margin-bottom: 10px;">
-                            🎉 *Jangan lewatkan kesempatan terbatas ini!* Promo bisa berakhir kapan saja.
-                        </p>
-                        <!-- <p class="text-center small">No credit card required</p>
-                        <ul>
-                            <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                            <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                            <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                            <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                            <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                            <li><i class="bi bi-check"></i> <span>Voluptate id voluptas qui sed aperiam rerum</span></li>
-                            <li class="na"><i class="bi bi-x"></i> <span>Iure nihil dolores recusandae odit voluptatibus</span></li>
-                        </ul> -->
+                        <a href="https://wa.me/6289505967995?text=Halo%2C%20saya%20tertarik%20dengan%20Paket%20Spesial%20Terbatas" class="cta-btn" target="_blank">Pesan Sekarang!</a>
+                        <p class="text-center">🎉 <strong>Jangan lewatkan kesempatan terbatas ini!</strong> Promo bisa berakhir kapan saja.</p>
                     </div>
                 </div>
 
-                <div class="col-lg-4" data-aos="zoom-in" data-aos-delay="300">
-                    <div class="pricing-item">
+                <!-- Paket Sultan Edu -->
+                <div class="col-lg-4 d-flex" data-aos="zoom-in" data-aos-delay="300">
+                    <div class="pricing-item flex-fill">
                         <h3>Paket Sultan Edu</h3>
                         <p class="description">
-                            🚀 Boost produktivitas akademik kamu ke level tertinggi! <br>
-                            Akses 1 tahun ke <strong>Scopus Lisensi + Scopus AI + Grammarly Premium</strong> <br>
-                            🎁 Bonus eksklusif: <strong>Gratis SciSpace 1 bulan</strong> untuk bantu baca & pahami jurnal internasional. <br>
-                            📚 Efisiensi maksimal, hasil optimal!
+                            🔥 Paket paling lengkap dan tahan lama, buat kamu yang nggak mau ribet setahun ke depan!<br>
+                            ✅ <strong>Scopus Lisensi 1 tahun</strong><br>
+                            ✅ <strong>Scopus AI</strong><br>
+                            ✅ <strong>Grammarly Premium</strong><br>
+                            🎁 Bonus: <strong>SciSpace 1 bulan GRATIS</strong><br>
+                            📚 Ideal untuk dosen, mahasiswa S2/S3, penulis akademik, dan profesional.<br>
+                            💰 Bayar sekali, tenang setahun!<br>
                         </p>
-                        <h4 style="font-size: 1.5rem; margin-bottom: 10px;">
-                            <span style="background-color: #ffeb3b; color: #d32f2f; padding: 2px 6px; border-radius: 5px; font-size: 0.9rem; font-weight: bold;">
-                                PROMO HARI INI!
-                            </span><br><br>
-                            <span style="text-decoration: line-through; color: #b71c1c;"><sup>Rp</sup>900.000</span>
-                            &nbsp;
-                            <sup style="color: #388e3c;">Rp</sup>
-                            <span style="color: #388e3c; font-weight: bold; font-size: 30px;">600.000</span>
+                        <h4 class="text-center">
+                            <span class="badge bg-warning text-danger fw-bold">PROMO HARI INI!</span><br><br>
+                            <span class="text-decoration-line-through text-danger">
+                                <sup>Rp</sup>900.000
+                            </span><br>
+                            <span class="fw-bold text-success" style="font-size: 30px;">
+                                <sup>Rp</sup>600.000
+                            </span>
                             <span style="font-size: 0.9rem;">/ tahun</span>
                         </h4>
-                        <a href="https://wa.me/6289505967995?text=Halo%2C%20saya%20tertarik%20dengan%20*Paket%20Sultan%20Edu*%20(Scopus%20Lisensi%2C%20Scopus%20AI%2C%20Grammarly%20Premium%20%2B%20Bonus%20SciSpace%201%20bulan)%20selama%201%20tahun.%20Boleh%20info%20lebih%20lanjut%3F"
-                            class="cta-btn" target="_blank">
-                            Pesan Sekarang!
-                        </a>
-                        <p style="font-size: 1.1rem; margin-bottom: 10px;">
-                            🎉 *Jangan lewatkan kesempatan terbatas ini!* Promo bisa berakhir kapan saja.
-                        </p>
-                        <!-- <p class="text-center small">No credit card required</p>
-                        <ul>
-                            <li><i class="bi bi-check"></i> <span>Quam adipiscing vitae proin</span></li>
-                            <li><i class="bi bi-check"></i> <span>Nec feugiat nisl pretium</span></li>
-                            <li><i class="bi bi-check"></i> <span>Nulla at volutpat diam uteera</span></li>
-                            <li><i class="bi bi-check"></i> <span>Pharetra massa massa ultricies</span></li>
-                            <li><i class="bi bi-check"></i> <span>Massa ultricies mi quis hendrerit</span></li>
-                            <li><i class="bi bi-check"></i> <span>Voluptate id voluptas qui sed aperiam rerum</span></li>
-                            <li><i class="bi bi-check"></i> <span>Iure nihil dolores recusandae odit voluptatibus</span></li>
-                        </ul> -->
+                        <a href="https://wa.me/6289505967995?text=Halo%2C%20saya%20tertarik%20dengan%20Paket%20Sultan%20Edu" class="cta-btn" target="_blank">Pesan Sekarang!</a>
+                        <p class="text-center">🎉 <strong>Jangan lewatkan kesempatan terbatas ini!</strong> Promo bisa berakhir kapan saja.</p>
                     </div>
                 </div>
 
@@ -268,20 +240,17 @@ Beranda | Phoenix Digital
                     </div>
                 </div>
 
+                <!-- DIGANTI -->
                 <div class="col-lg-3 col-md-6 d-flex flex-column align-items-center">
-                    <!-- Bintang kecil 10px -->
-                    <div class="rating-stars mb-1">
-                        <i class="bi bi-star-fill" style="font-size: 10px; color: #fd7e14;"></i>
-                        <i class="bi bi-star-fill" style="font-size: 10px; color: #fd7e14;"></i>
-                        <i class="bi bi-star-fill" style="font-size: 10px; color: #fd7e14;"></i>
-                        <i class="bi bi-star-fill" style="font-size: 10px; color: #fd7e14;"></i>
-                        <i class="bi bi-star-half" style="font-size: 10px; color: #fd7e14;"></i>
-                    </div>
-
-                    <!-- Angka rating -->
-                    <div class="stats-item">
-                        <span data-purecounter-start="0.0" data-purecounter-end="4.9" data-purecounter-duration="1" class="purecounter" data-purecounter-decimals="1"></span>
-                        <p>Rating Kepuasan</p>
+                    <i class="bi bi-bar-chart-line-fill" style="font-size: 2.5rem; color: #17a2b8;"></i>
+                    <div class="stats-item d-flex flex-column align-items-center">
+                        <!-- Angka dan Persen dalam satu baris -->
+                        <div class="d-flex align-items-baseline">
+                            <span data-purecounter-start="0" data-purecounter-end="98" data-purecounter-duration="1"
+                                class="purecounter" style="font-size: 36px; font-weight: bold;"></span>
+                            <span style="font-size: 36px; margin-left: 4px;">%</span>
+                        </div>
+                        <p style="margin: 0; font-size: 16px;">Tingkat Kepuasan Pelanggan</p>
                     </div>
                 </div>
 
