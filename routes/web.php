@@ -18,7 +18,7 @@ Route::get('/K4rY4w4N', 'Auth\LoginController@showLoginForm');
 Route::get('/page-maintenance', 'account\MaintenanceController@page')->name('account.page-maintenance.blank');
 
 // HOME PUBLIC
-Route::get('/', 'Public\PublicHomeController@home')->name('home');
+Route::get('/', 'publics\PublicHomeController@home')->name('home');
 
 // ARTIKEL PUBLIC
 Route::get('/blog', 'Publict\PublicArticleController@public')->name('blog.artikel.blog');

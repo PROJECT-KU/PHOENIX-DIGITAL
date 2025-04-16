@@ -16,8 +16,10 @@
         "laravel/framework": "^6.2",
         "laravel/passport": "^8.0",
         "laravel/tinker": "^1.0",
+        "lcobucci/jwt": "^3.3",
         "maatwebsite/excel": "^3.1",
         "nesbot/carbon": "^2.69",
+        "phpseclib/phpseclib": "^2.0",
         "pusher/pusher-push-notifications": "^1.1",
         "riskihajar/terbilang": "^1.2",
         "twilio/sdk": "^7.12"
